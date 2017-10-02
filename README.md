@@ -1,6 +1,6 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
-![](https://img.shields.io/badge/Answers-47-blue.svg)  
+![](https://img.shields.io/badge/Answers-47-blue.svg)
 ![](https://img.shields.io/badge/Language-C++-orange.svg?style=flat)
 ![](https://img.shields.io/badge/Language-Java-orange.svg?style=flat)
 ![](https://img.shields.io/badge/Language-Python-orange.svg?style=flat)
