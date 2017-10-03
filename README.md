@@ -9,6 +9,7 @@ Answers of LintCode
 | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题                        |  Easy  |     C++     |    异或     | Passing |
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题                    |  Easy  |     C++     |           | Passing |
 | [035](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/) | 翻转链表                            |  Easy  |     C++     |           | Passing |
+| [036](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/) | 翻转链表 II                         | Medium |     C++     |           | Passing |
 | [040](http://www.lintcode.com/zh-cn/problem/implement-queue-by-two-stacks/) | 用栈实现队列                          | Medium |     C++     |           | Passing |
 | [041](http://www.lintcode.com/zh-cn/problem/maximum-subarray/) | 最大子数组                           |  Easy  |     C++     |           | Passing |
 | [046](http://www.lintcode.com/zh-cn/problem/majority-number/) | 主元素                             |  Easy  |     C++     |           | Passing |
@@ -33,6 +34,7 @@ Answers of LintCode
 | [102](http://www.lintcode.com/zh-cn/problem/linked-list-cycle/) | 带环链表                            | Medium |     C++     |   快慢指针    | Passing |
 | [103](http://www.lintcode.com/zh-cn/problem/linked-list-cycle-ii/) | 带环链表 II                         |  Hard  |     C++     |   快慢指针    | Passing |
 | [105](http://www.lintcode.com/zh-cn/problem/copy-list-with-random-pointer/) | 复制带随机指针的链表                      | Medium |     C++     |   Hash    | Passing |
+| [106](http://www.lintcode.com/zh-cn/problem/convert-sorted-list-to-balanced-bst/) | 排序列表转换为二分查找树                    | Medium |     C++     |           | Passing |
 | [112](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list/) | 删除排序链表中的重复元素                    |  Easy  |     C++     |           | Passing |
 | [114](http://www.lintcode.com/zh-cn/problem/unique-paths/) | 不同的路径                           |  Easy  |     C++     |           | Passing |
 | [115](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/) | 不同的路径 II                        |  Easy  |     C++     |   棋盘型DP   | Passing |
