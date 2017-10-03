@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-52-blue.svg)
+![](https://img.shields.io/badge/Answers-55-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |  Language   |   Notes   |  Build  |
@@ -31,6 +31,7 @@ Answers of LintCode
 | [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) | 二叉树的最大深度                        |  Easy  |     C++     |    递归     | Passing |
 | [102](http://www.lintcode.com/zh-cn/problem/linked-list-cycle/) | 带环链表                            | Medium |     C++     |   快慢指针    | Passing |
 | [103](http://www.lintcode.com/zh-cn/problem/linked-list-cycle-ii/) | 带环链表 II                         |  Hard  |     C++     |   快慢指针    | Passing |
+| [105](http://www.lintcode.com/zh-cn/problem/copy-list-with-random-pointer/) | 复制带随机指针的链表                      | Medium |     C++     |   Hash    | Passing |
 | [112](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list/) | 删除排序链表中的重复元素                    |  Easy  |     C++     |           | Passing |
 | [114](http://www.lintcode.com/zh-cn/problem/unique-paths/) | 不同的路径                           |  Easy  |     C++     |           | Passing |
 | [115](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/) | 不同的路径 II                        |  Easy  |     C++     |   棋盘型DP   | Passing |
@@ -53,6 +54,7 @@ Answers of LintCode
 | [419](http://www.lintcode.com/zh-cn/problem/roman-to-integer/) | 罗马数字转整数                         | Medium |     C++     |           | Passing |
 | [439](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/) | 线段树的构造 II                       | Medium |     C++     |    线段树    | Passing |
 | [450](http://www.lintcode.com/zh-cn/problem/reverse-nodes-in-k-group/) | K组翻转链表                          |  Hard  |     C++     |           | Passing |
+| [451](http://www.lintcode.com/zh-cn/problem/#) | 两两交换链表中的节点                      |  Easy  |     C++     |           | Passing |
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | 等价二叉树                           |  Easy  |     C++     |    递归     | Passing |
 | [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) | 摆动排序                            | Medium |     C++     |           | Passing |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted | Medium |     C++     |           | Passing |
