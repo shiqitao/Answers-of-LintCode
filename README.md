@@ -28,6 +28,7 @@ Answers of LintCode
 | [084](http://www.lintcode.com/zh-cn/problem/single-number-iii/) | 落单的数 III                        | Medium |     C++     |           | Passing |
 | [085](http://www.lintcode.com/zh-cn/problem/insert-node-in-a-binary-search-tree/) | 在二叉查找树中插入节点                     |  Easy  |     C++     |    递归     | Passing |
 | [088](http://www.lintcode.com/zh-cn/problem/lowest-common-ancestor/) | 最近公共祖先                          | Medium |     C++     |           | Passing |
+| [096](http://www.lintcode.com/zh-cn/problem/partition-list/) | 链表划分                            |  Easy  |     C++     |           | Passing |
 | [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) | 二叉树的最大深度                        |  Easy  |     C++     |    递归     | Passing |
 | [102](http://www.lintcode.com/zh-cn/problem/linked-list-cycle/) | 带环链表                            | Medium |     C++     |   快慢指针    | Passing |
 | [103](http://www.lintcode.com/zh-cn/problem/linked-list-cycle-ii/) | 带环链表 II                         |  Hard  |     C++     |   快慢指针    | Passing |
@@ -42,6 +43,7 @@ Answers of LintCode
 | [157](http://www.lintcode.com/zh-cn/problem/unique-characters/) | 判断字符串是否没有重复字符                   |  Easy  |     C++     |           | Passing |
 | [165](http://www.lintcode.com/zh-cn/problem/merge-two-sorted-lists/) | 合并两个排序链表                        |  Easy  |     C++     |           | Passing |
 | [166](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/) | 链表倒数第n个节点                       |  Easy  |     C++     |           | Passing |
+| [173](http://www.lintcode.com/zh-cn/problem/insertion-sort-list/) | 链表插入排序                          |  Easy  |     C++     |           | Passing |
 | [175](http://www.lintcode.com/zh-cn/problem/invert-binary-tree/) | 翻转二叉树                           |  Easy  |     C++     |    递归     | Passing |
 | [201](http://www.lintcode.com/zh-cn/problem/segment-tree-build/) | 线段树的构造                          | Medium |     C++     |    线段树    | Passing |
 | [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点                |  Easy  |     C++     |           | Passing |

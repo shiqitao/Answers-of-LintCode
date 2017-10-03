@@ -21,6 +21,22 @@ public:
 	*/
 	ListNode * partition(ListNode * head, int x) {
 		// write your code here
-
+		ListNode *leftDummy = new ListNode(-1);
+		ListNode *rightDummy = new ListNode(-1);
+		ListNode *left = leftDummy, *right = rightDummy;
+		while (head) {
+			if (head->val < x) {
+				left->next = head;
+				left = left->next;
+			}
+			else {
+				right->next = head;
+				right = right->next;
+			}
+			head = head->next;
+		}
+		left->next = rightDummy->next;
+		right->next = NULL;
+		return leftDummy->next;
 	}
 };
