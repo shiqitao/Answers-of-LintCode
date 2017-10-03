@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-47-blue.svg)
+![](https://img.shields.io/badge/Answers-52-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |  Language   |   Notes   |  Build  |
@@ -52,6 +52,7 @@ Answers of LintCode
 | [418](http://www.lintcode.com/zh-cn/problem/integer-to-roman/) | 整数转罗马数字                         | Medium |     C++     |           | Passing |
 | [419](http://www.lintcode.com/zh-cn/problem/roman-to-integer/) | 罗马数字转整数                         | Medium |     C++     |           | Passing |
 | [439](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/) | 线段树的构造 II                       | Medium |     C++     |    线段树    | Passing |
+| [450](http://www.lintcode.com/zh-cn/problem/reverse-nodes-in-k-group/) | K组翻转链表                          |  Hard  |     C++     |           | Passing |
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | 等价二叉树                           |  Easy  |     C++     |    递归     | Passing |
 | [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) | 摆动排序                            | Medium |     C++     |           | Passing |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted | Medium |     C++     |           | Passing |
