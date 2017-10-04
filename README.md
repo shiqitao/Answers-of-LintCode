@@ -7,6 +7,7 @@ Answers of LintCode
 |                 Sequence                 | Problem                         | Level  |  Language   |   Notes   |  Build  |
 | :--------------------------------------: | :------------------------------ | :----: | :---------: | :-------: | :-----: |
 | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题                        |  Easy  |     C++     |    异或     | Passing |
+| [012](http://www.lintcode.com/zh-cn/problem/min-stack/) | 带最小值操作的栈                        | Medium |     C++     |           | Passing |
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题                    |  Easy  |     C++     |           | Passing |
 | [035](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/) | 翻转链表                            |  Easy  |     C++     |           | Passing |
 | [036](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/) | 翻转链表 II                         | Medium |     C++     |           | Passing |
