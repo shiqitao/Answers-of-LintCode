@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-89-blue.svg)
+![](https://img.shields.io/badge/Answers-96-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |    Language     |   Notes   |  Build  |
@@ -15,9 +15,11 @@ Answers of LintCode
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题                    |  Easy  |       C++       |           | Passing |
 | [012](http://www.lintcode.com/zh-cn/problem/min-stack/) | 带最小值操作的栈                        | Medium |       C++       |           | Passing |
 | [014](http://www.lintcode.com/zh-cn/problem/first-position-of-target/) | 二分查找                            |  Easy  |       C++       |           | Passing |
+| [028](http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix/) | 搜索二维矩阵                          |  Easy  |       C++       |    二分     | Passing |
 | [031](http://www.lintcode.com/problem/partition-array) | 数组划分                            | Medium |       C++       |           | Passing |
 | [035](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/) | 翻转链表                            |  Easy  |       C++       |           | Passing |
 | [036](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/) | 翻转链表 II                         | Medium |       C++       |           | Passing |
+| [038](http://www.lintcode.com/zh-cn/problem/search-a-2d-matrix-ii/) | 搜索二维矩阵 II                       | Medium |       C++       |    二分     | Passing |
 | [039](http://www.lintcode.com/zh-cn/problem/recover-rotated-sorted-array/) | 恢复旋转排序数组                        |  Easy  |       C++       |           | Passing |
 | [040](http://www.lintcode.com/zh-cn/problem/implement-queue-by-two-stacks/) | 用栈实现队列                          | Medium |       C++       |           | Passing |
 | [041](http://www.lintcode.com/zh-cn/problem/maximum-subarray/) | 最大子数组                           |  Easy  |       C++       |           | Passing |
@@ -31,8 +33,8 @@ Answers of LintCode
 | [049](http://www.lintcode.com/zh-cn/problem/sort-letters-by-case/) | 字符大小写排序                         | Medium |       C++       |           | Passing |
 | [056](http://www.lintcode.com/zh-cn/problem/two-sum/) | 两数之和                            |  Easy  |       C++       |           | Passing |
 | [057](http://www.lintcode.com/zh-cn/problem/3sum/) | 三数之和                            | Medium |       C++       |           | Passing |
-| [062](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array/) | 搜索旋转排序数组                        | Medium |       C++       |    二分法    | Passing |
-| [063](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array-ii/) | 搜索旋转排序数组 II                     | Medium |       C++       |    二分法    | Passing |
+| [062](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array/) | 搜索旋转排序数组                        | Medium |       C++       |    二分     | Passing |
+| [063](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array-ii/) | 搜索旋转排序数组 II                     | Medium |       C++       |    二分     | Passing |
 | [066](http://www.lintcode.com/zh-cn/problem/binary-tree-preorder-traversal/) | 二叉树的前序遍历                        |  Easy  |       C++       |    递归     | Passing |
 | [067](http://www.lintcode.com/zh-cn/problem/binary-tree-inorder-traversal/) | 二叉树的中序遍历                        |  Easy  |       C++       |    递归     | Passing |
 | [068](http://www.lintcode.com/zh-cn/problem/binary-tree-postorder-traversal/) | 二叉树的后序遍历                        |  Easy  |       C++       |    递归     | Passing |
