@@ -10,7 +10,7 @@ public class Solution {
         } else {
             int max = (int)Math.sqrt(num / 2);
             for (int a = 0; a <= max; a++) {
-                double b = Math.sqrt((num - a * a));
+                double b = Math.sqrt(num - a * a);
                 if (b == (int) b) {
                     return true;
                 }
