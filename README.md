@@ -10,6 +10,7 @@ Answers of LintCode
 | [002](http://www.lintcode.com/zh-cn/problem/trailing-zeros/) | 尾部的零                            |  Easy  |       C++       |    递归     | Passing |
 | [003](http://www.lintcode.com/zh-cn/problem/digit-counts/) | 统计数字                            | Medium |       C++       |           | Passing |
 | [004](http://www.lintcode.com/zh-cn/problem/ugly-number-ii/) | 丑数 II                           | Medium |       C++       |           | Passing |
+| [005](http://www.lintcode.com/zh-cn/problem/kth-largest-element/) | 第k大元素                           | Medium |       C++       |           | Passing |
 | [006](http://www.lintcode.com/zh-cn/problem/merge-two-sorted-arrays/) | 合并排序数组                          |  Easy  |       C++       |           | Passing |
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题                    |  Easy  |       C++       |           | Passing |
 | [012](http://www.lintcode.com/zh-cn/problem/min-stack/) | 带最小值操作的栈                        | Medium |       C++       |           | Passing |
