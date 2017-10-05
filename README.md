@@ -1,13 +1,15 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-84-blue.svg)
+![](https://img.shields.io/badge/Answers-88-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |    Language     |   Notes   |  Build  |
 | :--------------------------------------: | :------------------------------ | :----: | :-------------: | :-------: | :-----: |
 | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题                        |  Easy  |       C++       |    异或     | Passing |
 | [002](http://www.lintcode.com/zh-cn/problem/trailing-zeros/) | 尾部的零                            |  Easy  |       C++       |    递归     | Passing |
+| [003](http://www.lintcode.com/zh-cn/problem/digit-counts/) | 统计数字                            | Medium |       C++       |           | Passing |
+| [004](http://www.lintcode.com/zh-cn/problem/ugly-number-ii/) | 丑数 II                           | Medium |       C++       |           | Passing |
 | [006](http://www.lintcode.com/zh-cn/problem/merge-two-sorted-arrays/) | 合并排序数组                          |  Easy  |       C++       |           | Passing |
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题                    |  Easy  |       C++       |           | Passing |
 | [012](http://www.lintcode.com/zh-cn/problem/min-stack/) | 带最小值操作的栈                        | Medium |       C++       |           | Passing |
@@ -86,8 +88,9 @@ Answers of LintCode
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | 等价二叉树                           |  Easy  |       C++       |    递归     | Passing |
 | [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) | 摆动排序                            | Medium |       C++       |           | Passing |
 | [511](http://www.lintcode.com/zh-cn/problem/swap-two-nodes-in-linked-list/) | 交换链表当中两个节点                      | Medium |       C++       |           | Passing |
+| [517](http://www.lintcode.com/zh-cn/problem/ugly-number/) | 丑数                              |  Easy  |       C++       |           | Passing |
+| [518](http://www.lintcode.com/zh-cn/problem/super-ugly-number/) | 超级丑数                            | Medium |       C++       |           | Passing |
 | [528](http://www.lintcode.com/zh-cn/problem/flatten-nested-list-iterator/) | 摊平嵌套的列表                         | Medium |       C++       |           | Passing |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted | Medium |       C++       |           | Passing |
 | [690](http://www.lintcode.com/zh-cn/problem/factorial/) | Factorial                       |  Hard  |       C++       |           | Passing |
 | [697](http://www.lintcode.com/zh-cn/problem/check-sum-of-square-numbers/) | Check Sum of Square Numbers     |  Easy  | C++/Java/Python |           | Passing |
-
