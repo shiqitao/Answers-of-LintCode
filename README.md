@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-72-blue.svg)
+![](https://img.shields.io/badge/Answers-73-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |  Language   |   Notes   |  Build  |
@@ -75,6 +75,7 @@ Answers of LintCode
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | 等价二叉树                           |  Easy  |     C++     |    递归     | Passing |
 | [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) | 摆动排序                            | Medium |     C++     |           | Passing |
 | [511](http://www.lintcode.com/zh-cn/problem/swap-two-nodes-in-linked-list/) | 交换链表当中两个节点                      | Medium |     C++     |           | Passing |
+| [528](http://www.lintcode.com/zh-cn/problem/flatten-nested-list-iterator/) | 摊平嵌套的列表                         | Medium |     C++     |           | Passing |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted | Medium |     C++     |           | Passing |
 | [690](http://www.lintcode.com/zh-cn/problem/factorial/) | Factorial                       |  Hard  |     C++     |           | Passing |
 | [697](http://www.lintcode.com/zh-cn/problem/check-sum-of-square-numbers/) | Check Sum of Square Numbers     |  Easy  | Java/Python |           | Passing |
