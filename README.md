@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-96-blue.svg)
+![](https://img.shields.io/badge/Answers-98-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |    Language     |   Notes   |  Build  |
@@ -70,6 +70,8 @@ Answers of LintCode
 | [150](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/) | 买卖股票的最佳时机 II                    | Medium |       C++       |           | Passing |
 | [151](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-iii/) | 买卖股票的最佳时机 III                   | Medium |       C++       |   前后遍历    | Passing |
 | [157](http://www.lintcode.com/zh-cn/problem/unique-characters/) | 判断字符串是否没有重复字符                   |  Easy  |       C++       |           | Passing |
+| [161](http://www.lintcode.com/zh-cn/problem/rotate-image/) | 旋转图像                            | Medium |       C++       |           | Passing |
+| [162](http://www.lintcode.com/zh-cn/problem/set-matrix-zeroes/) | 矩阵归零                            | Medium |       C++       |           | Passing |
 | [165](http://www.lintcode.com/zh-cn/problem/merge-two-sorted-lists/) | 合并两个排序链表                        |  Easy  |       C++       |           | Passing |
 | [166](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/) | 链表倒数第n个节点                       |  Easy  |       C++       |           | Passing |
 | [167](http://www.lintcode.com/zh-cn/problem/add-two-numbers/) | 链表求和                            |  Easy  |       C++       |           | Passing |
