@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-88-blue.svg)
+![](https://img.shields.io/badge/Answers-89-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |    Language     |   Notes   |  Build  |
@@ -41,6 +41,7 @@ Answers of LintCode
 | [075](http://www.lintcode.com/zh-cn/problem/find-peak-element/) | 寻找峰值                            | Medium |       C++       |           | Passing |
 | [076](http://www.lintcode.com/zh-cn/problem/longest-increasing-subsequence/) | 最长上升子序列                         | Medium |       C++       | LIS+序列型DP | Passing |
 | [077](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/) | 最长公共子序列                         | Medium |       C++       | LCS+序列型DP | Passing |
+| [080](http://www.lintcode.com/zh-cn/problem/median/) | 中位数                             |  Easy  |       C++       |           | Passing |
 | [082](http://www.lintcode.com/zh-cn/problem/single-number/) | 落单的数                            |  Easy  |       C++       |           | Passing |
 | [083](http://www.lintcode.com/zh-cn/problem/single-number-ii/) | 落单的数 II                         | Medium |       C++       |           | Passing |
 | [084](http://www.lintcode.com/zh-cn/problem/single-number-iii/) | 落单的数 III                        | Medium |       C++       |           | Passing |
@@ -49,6 +50,8 @@ Answers of LintCode
 | [096](http://www.lintcode.com/zh-cn/problem/partition-list/) | 链表划分                            |  Easy  |       C++       |   两根指针    | Passing |
 | [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) | 二叉树的最大深度                        |  Easy  |       C++       |    递归     | Passing |
 | [099](http://www.lintcode.com/zh-cn/problem/reorder-list/) | 重排链表                            | Medium |       C++       |           | Passing |
+| [100](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array/) | 删除排序数组中的重复数字                    |  Easy  |       C++       |           | Passing |
+| [101](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/) | 删除排序数组中的重复数字 II                 |  Easy  |       C++       |           | Passing |
 | [102](http://www.lintcode.com/zh-cn/problem/linked-list-cycle/) | 带环链表                            | Medium |       C++       |   快慢指针    | Passing |
 | [103](http://www.lintcode.com/zh-cn/problem/linked-list-cycle-ii/) | 带环链表 II                         |  Hard  |       C++       |   快慢指针    | Passing |
 | [104](http://www.lintcode.com/zh-cn/problem/merge-k-sorted-lists/) | 合并k个排序链表                        | Medium |       C++       |           | Passing |
@@ -58,6 +61,8 @@ Answers of LintCode
 | [113](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-list-ii/) | 删除排序链表中的重复数字 II                 | Medium |       C++       |           | Passing |
 | [114](http://www.lintcode.com/zh-cn/problem/unique-paths/) | 不同的路径                           |  Easy  |       C++       |           | Passing |
 | [115](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/) | 不同的路径 II                        |  Easy  |       C++       |   棋盘型DP   | Passing |
+| [116](http://www.lintcode.com/zh-cn/problem/jump-game/) | 跳跃游戏                            | Medium |       C++       |    贪心     | Passing |
+| [117](http://www.lintcode.com/zh-cn/problem/jump-game-ii/) | 跳跃游戏 II                         | Medium |       C++       |    贪心     | Passing |
 | [118](http://www.lintcode.com/zh-cn/problem/distinct-subsequences/) | 不同的子序列                          | Medium |       C++       |    DP     | Passing |
 | [149](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/) | 买卖股票的最佳时机                       | Medium |       C++       |           | Passing |
 | [150](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/) | 买卖股票的最佳时机 II                    | Medium |       C++       |           | Passing |
