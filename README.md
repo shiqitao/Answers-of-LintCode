@@ -1,7 +1,7 @@
 Answers of LintCode  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++/Java/Python-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-98-blue.svg)
+![](https://img.shields.io/badge/Answers-101-blue.svg)
 ========
 ### Some of the problems are listed below:
 |                 Sequence                 | Problem                         | Level  |    Language     |   Notes   |  Build  |
@@ -84,6 +84,7 @@ Answers of LintCode
 | [223](http://www.lintcode.com/zh-cn/problem/palindrome-linked-list/) | 回文链表                            | Medium |       C++       |           | Passing |
 | [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点                |  Easy  |       C++       |           | Passing |
 | [373](http://www.lintcode.com/zh-cn/problem/partition-array-by-odd-and-even/) | 奇偶分割数组                          |  Easy  |       C++       |   首尾指针    | Passing |
+| [366](http://www.lintcode.com/zh-cn/problem/fibonacci/) | 斐波纳契数列                          | Naive  |       C++       |           | Passing |
 | [375](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/) | 克隆二叉树                           |  Easy  |       C++       |    递归     | Passing |
 | [378](http://www.lintcode.com/zh-cn/problem/convert-binary-search-tree-to-doubly-linked-list/) | 将二叉查找树转换成双链表                    | Medium |       C++       |           | Passing |
 | [380](http://www.lintcode.com/zh-cn/problem/intersection-of-two-linked-lists/) | 两个链表的交叉                         | Medium |       C++       |           | Passing |
@@ -95,6 +96,7 @@ Answers of LintCode
 | [450](http://www.lintcode.com/zh-cn/problem/reverse-nodes-in-k-group/) | K组翻转链表                          |  Hard  |       C++       |           | Passing |
 | [451](http://www.lintcode.com/zh-cn/problem/#) | 两两交换链表中的节点                      |  Easy  |       C++       |           | Passing |
 | [452](http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/) | 删除链表中的元素                        | Naive  |       C++       |           | Passing |
+| [463](http://www.lintcode.com/zh-cn/problem/sort-integers/) | 整数排序                            | Naive  |       C++       |           | Passing |
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) | 等价二叉树                           |  Easy  |       C++       |    递归     | Passing |
 | [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) | 摆动排序                            | Medium |       C++       |           | Passing |
 | [511](http://www.lintcode.com/zh-cn/problem/swap-two-nodes-in-linked-list/) | 交换链表当中两个节点                      | Medium |       C++       |           | Passing |
@@ -102,5 +104,6 @@ Answers of LintCode
 | [518](http://www.lintcode.com/zh-cn/problem/super-ugly-number/) | 超级丑数                            | Medium |       C++       |           | Passing |
 | [528](http://www.lintcode.com/zh-cn/problem/flatten-nested-list-iterator/) | 摊平嵌套的列表                         | Medium |       C++       |           | Passing |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted | Medium |       C++       |           | Passing |
+| [632](http://www.lintcode.com/zh-cn/problem/binary-tree-maximum-node/) | 二叉树的最大节点                        | Naive  |       C++       |           | Passing |
 | [690](http://www.lintcode.com/zh-cn/problem/factorial/) | Factorial                       |  Hard  |       C++       |           | Passing |
 | [697](http://www.lintcode.com/zh-cn/problem/check-sum-of-square-numbers/) | Check Sum of Square Numbers     |  Easy  | C++/Java/Python |           | Passing |

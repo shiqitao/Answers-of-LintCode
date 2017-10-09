@@ -1,4 +1,4 @@
-class Solution:
+﻿class Solution:
     """
     @param: : the given number
     @return: whether whether there're two integers
